@@ -1,5 +1,6 @@
 import random
 n = int(input ("Masukkan jumlah n ="))
+
 for i in range (n):
     while 1 :
         n = random.random()
