@@ -24,9 +24,10 @@ Pada latihan 1 ini, saya disuruh membuat bilangan acak dengan nilai kurang dari 
 **For dan While**<br>
 * For disebut <i>counted loop</i> (perulangan yang terhitung)
 * While disebut <i>uncounted loop</i> (perulangan yang tak terhitung)<br>
+
 Perbedaannya adalah perulangan for biasanya digunakan untuk mengulangi kode yang sudah diketahui banyak perulangannya. Sementara while untuk perulangan yang memiliki syarat dan tidak tentu berapa banyak perulangannya.
 
-**Random**
+**Random**<br>
 Random berfungsi untuk mengacak sebuah bilangan
 
 
@@ -47,8 +48,8 @@ Penjelasan :<br>
 * Maka dengan kondisi tersebut bahwa 1 = bernilai random dibawah 0.5 dengan fungsi ***random()*** dan ***if n < 0.5***
 * ***Break*** untuk mencegah terjadinya looping tak terhingga
 
-Hasil dari output source code latihan 1 :
-> Jika n = 5, maka outputnya akan menjadi 5:
+Hasil dari output source code latihan 1 :<br>
+> Jika n = 5, maka outputnya akan menjadi 5:<br>
 >![outputlat1-1](Pic/outputlatihan1-1.png)<br>
-> Jika n = 7 , maka outputnya akan menjadi 7 baris :
+> Jika n = 7 , maka outputnya akan menjadi 7 baris :<br>
 >![outputlat1-2](Pic/outputlatihan1-2.png)<br>
