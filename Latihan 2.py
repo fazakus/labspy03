@@ -1,4 +1,3 @@
-#Bilangan terbesar
 x=0
 while True:
     a=int(input("Masukkan Bilangan : "))

@@ -32,7 +32,17 @@ Random berfungsi untuk mengacak sebuah bilangan
 
 
 Untuk latihan 1 saya menggunakan syntax sebagai berikut :
-![syntaxlat1](Pic/syntaxlatihan1%20.png)<br>
+```python
+import random
+n = int(input ("Masukkan jumlah n ="))
+
+for i in range (n):
+    while 1:
+        n = random.random()
+        if n < 0.5 :
+            break
+    print(n)
+```
 
 Penjelasan :<br>
 
@@ -53,3 +63,35 @@ Hasil dari output source code latihan 1 :<br>
 >![outputlat1-1](Pic/outputlatihan1-1.png)<br>
 > Jika n = 7 , maka outputnya akan menjadi 7 baris :<br>
 >![outputlat1-2](Pic/outputlatihan1-2.png)<br>
+
+
+## Latihan 2
+Pada latihan 2, soalnya sebagi berikut :
+![latihan2](Pic/Latihan%202.png)<br>
+
+Untuk source code dari tugas 2 :
+```python
+x=0
+while True:
+    a=int(input("Masukkan Bilangan : "))
+    if x<a:
+        x=a
+    if a==0:
+        break
+print("Bilangan terbesar adalah =",x)
+```
+
+Penjelasan :
+* Di latihan 2 ini saya akan menggunakan ***while*** untuk pengulangannya 
+* ***if*** untuk mengeksekusi jika kondisinya ***true***
+* ***break*** untuk menghentikan looping
+* Jadi dengan source code diatas, program baru akan berhenti ketika di inputkan angka 0, bila di inputkan selain angka 0 maka looping akan terus berlanjut<br>
+
+Hasil dari source code latihan 2 :<br>
+![outputlat2-1](Pic/outputlatihan2-1.png)<br>
+![outputlat2-2](Pic/outputlatihan2-2.png)<br>
+Itulah 2 contoh dari <i>source code</t> latihan 2 bila di run
+
+## Program 1
+
+
