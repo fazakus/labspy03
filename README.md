@@ -130,7 +130,7 @@ Penjelasan :
 * ***total=b+b+c+c+d+d+d+e***, syntax tersebut untuk menjumlahkan total laba yang di dapat dari bulan pertama sampai bulan kedelapan
 * ***print("total : ",total)***, syntax tersebut untuk menampilkan hasil dari penjumlahan laba<br>
 
-Output dari Source code diatas adalah 
+Output dari Source code diatas adalah <br>
 ![outputtugas3](Pic/outputprogram1-1.png)<br>
 
 Hasilnya ***berbeda*** dengan apa yang ada pada tugas 3, karena :
