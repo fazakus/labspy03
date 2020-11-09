@@ -134,5 +134,5 @@ Output dari Source code diatas adalah <br>
 ![outputtugas3](Pic/outputprogram1-1.png)<br>
 
 Hasilnya ***berbeda*** dengan apa yang ada pada tugas 3, karena :
-* Pertama, yang ditampilkan di tugas 3 bahwa laba dari bulan 3 & 4 adalah Rp. 10.000.000,-, yang seharusnya hanyalah Rp 1. 000.000,-, karena perkalian dari Rp. 100.000.000 x 100% adalah Rp. 1000.000,-
-* Kedua hasil pada laba ke 8, pada tugas 3 dikalikan dengan 2% bukannya 3%, karena dari 5 - 2 adalah 3
+* Pertama, yang ditampilkan di tugas 3 adalah labanya 10%, 50% dan 20%, yang seharusnya 1%, 5% dan 3%, jadi yang ditampilkan pada tugas labanya berupa puluhan juta, bukan, jutaan
+* Kedua hasil pada laba ke 8, pada tugas 3 dikalikan dengan 20% bukannya 3%, karena dari 5 - 2 adalah 3
