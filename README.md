@@ -136,3 +136,10 @@ Output dari Source code diatas adalah <br>
 Hasilnya ***berbeda*** dengan apa yang ada pada tugas 3, karena :
 * Pertama, yang ditampilkan di tugas 3 adalah labanya 10%, 50% dan 20%, yang seharusnya 1%, 5% dan 3%, jadi yang ditampilkan pada tugas labanya berupa puluhan juta, bukan, jutaan
 * Kedua hasil pada laba ke 8, pada tugas 3 dikalikan dengan 20% bukannya 3%, karena dari 5 - 2 adalah 3
+
+**================================================================**<br>
+**=========================FAZA ARDAN KUSUMA=======================**<br>
+**=============================312010001===========================**<br>
+**==============================TA.20.B1===========================**<br>
+**============================TERIMA KASIH=========================**<br>
+**================================================================**
