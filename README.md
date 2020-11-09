@@ -10,11 +10,11 @@ Pada tugas 3 di pertemuan 7 ini, diberikan 3 program, yaitu :
 
 | No | Description | Link |
 |----|----|----|
-| 1 | Latihan 1 | [Clik Here](#pertemuan-7---tugas-praktikum-3) |
-| 2 | Latihan 2 | [Clik Here](#latihan-2) |
-| 3 | Program 1 | [Clik Here](#program-1) |
+| 1 | Latihan 1 | [Click Here](#pertemuan-7---tugas-praktikum-3) |
+| 2 | Latihan 2 | [Click Here](#latihan-2) |
+| 3 | Program 1 | [Click Here](#program-1) |
 
-## Latihan 1
+## Latihan 1    
 Berikut adalah soal latihan 1
 
 ![latihan1](Pic/Latihan%201.png)<br>
