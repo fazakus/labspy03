@@ -1,20 +1,20 @@
 a=100000000
-for s in range(1,9):
-    if(s>=1 and s<=2):
+for x in range(1,9):
+    if(x>=1 and x<=2):
         b=a*0
-        print("Laba bulan ke-",s,":",b)
+        print("Laba bulan ke-",x,":",b)
 
-    if(s>=3 and s<=4):
+    if(x>=3 and x<=4):
         c=a*0.01
-        print("Laba bulan ke-",s,":",c)
+        print("Laba bulan ke-",x,":",c)
 
-    if(s>=5 and s<=7):
+    if(x>=5 and x<=7):
         d=a*0.05
-        print("Laba bulan ke-",s,":",d)
+        print("Laba bulan ke-",x,":",d)
 
-    if(s==8):
+    if(x==8):
         e=a*(0.03)
-        print("Laba bulan ke-",s,":",e)
+        print("Laba bulan ke-",x,":",e)
 
 total=b+b+c+c+d+d+d+e
 print("total : ",total)
